@@ -2,7 +2,7 @@ githublink.nvim
 ---
 
 # about
-lua implementation of https://github.com/knsh14/vim-github-link
+lua implementation of [knsh14/vim-github-link]( https://github.com/knsh14/vim-github-link )  
 create GitHub link from selected lines and copy to clipboard
 
 # install
@@ -17,4 +17,4 @@ use {
 ```
 
 # depend libraries
-https://github.com/rcarriga/nvim-notify to show cool popup display
+[rcarriga/nvim-notify]( https://github.com/rcarriga/nvim-notify ) to show cool popup display
